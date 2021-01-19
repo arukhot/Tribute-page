@@ -21,6 +21,9 @@ padding-bottom: 15px;
   margin: 30px 0 0 0;
 }
 
+.awards{
+  padding-left: 20px;
+}
 li{
   line-height: 1.8;
 }
@@ -30,5 +33,5 @@ li{
   padding-top: 30px;
 }
 
-a:visited { text-decoration: none; color:grey; }
-a:hover { text-decoration: none; color: white; }
+a:visited { text-decoration: none; color:#605a56; }
+a:hover { text-decoration: none; color: #dfddc7; }
